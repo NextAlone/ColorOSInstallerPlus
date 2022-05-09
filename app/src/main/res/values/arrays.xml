@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="module_scope">
+        <item>com.google.android.packageinstaller</item>
+        <item>com.android.packageinstaller</item>
+        <item>ltd.nextalone.pkginstallerplus</item>
+    </string-array>
+</resources>
